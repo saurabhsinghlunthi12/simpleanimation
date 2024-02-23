@@ -1,1 +1,2 @@
-Learning animation-A good Homepage idea in making...
+Learning animation-created a logo
+used animation and transform rotate property to create a loader

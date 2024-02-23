@@ -28,11 +28,13 @@ body{
 @keyframes animation {
     from {background: linear-gradient(to left top,red,blue);
         color: beige;
+        transform: translateY(20 px);
 
     }
     to {
         background: linear-gradient(in hsl longer hue, blue, red);
         color: black;
+        transform: translateX(20px);
 
     }
     
